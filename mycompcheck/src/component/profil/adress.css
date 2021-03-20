@@ -1,0 +1,20 @@
+.adress_container{
+    margin-top: 20px;
+    padding:5px;
+    margin-bottom: 30px;
+
+}
+
+.adress_container img{
+    width:8%;
+}
+.adress{
+    display:flex;
+    align-items: center;
+    justify-content: center;
+}
+.adress span{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-weight: 600;
+
+}

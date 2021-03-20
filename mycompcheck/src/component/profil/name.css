@@ -1,0 +1,11 @@
+.name_container{
+    margin-top:50px;
+    padding:5px;
+    text-align: center;
+}
+.name_container h1{
+    color:#8d108d;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: x-large;
+    font-weight: 700;
+}
